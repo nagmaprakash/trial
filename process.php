@@ -33,6 +33,7 @@ $uploads_dir = 'photo/';
     }
     else {
         echo "failed";
+	echo "I am lucky";
     }
     
     ?>
